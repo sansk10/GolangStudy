@@ -130,7 +130,7 @@ func displayFamily() {
 
 func main() {
 	x := true
-	for x 5{
+	for x {
 		var option int
 		fmt.Println("Start")
 		fmt.Println("1. Add node family with Node type")
